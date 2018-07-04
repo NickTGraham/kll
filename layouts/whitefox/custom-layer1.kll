@@ -30,11 +30,19 @@ U"Delete"    : CONS"Mute";
 U"PageUp"    : CONS"VolumeUp";
 
 # Bottom Row
-U"Up"        : U"PageUp";
+U"Up"        : CONS"BRIGHTNESSINCREMENT";
 U"PageDown"  : CONS"VolumeDown";
 
 # Space Row
 U"Gui"       : U"Menu";
 U"Left"      : U"Home";
-U"Down"      : U"PageDown";
+U"Down"      : CONS"BRIGHTNESSDECREMENT";
 U"Right"     : U"End";
+
+# BarryisStreaming Emote Macros
+U"L"         : 'barrLove ';
+U"B"         : 'barrNabee ';
+U"O"         : 'barrOwO ';
+U"C"         : 'Clap ';
+U"R"         : 'RareBarry ';
+U"T"         : 'RareBarrNabee ';
