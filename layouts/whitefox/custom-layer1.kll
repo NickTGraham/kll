@@ -40,9 +40,13 @@ U"Down"      : CONS"BRIGHTNESSDECREMENT";
 U"Right"     : U"End";
 
 # BarryisStreaming Emote Macros
-U"L"         : 'barrLove ';
-U"B"         : 'barrNabee ';
-U"O"         : 'barrOwO ';
-U"C"         : 'Clap ';
-U"R"         : 'RareBarry ';
-U"T"         : 'RareBarrNabee ';
+U"L"            : 'barrLove ';
+U"B"            : 'barrNabee ';
+U"O"            : 'barrOwO ';
+U"P"            : 'barrOof ';
+U"C"            : 'Clap ';
+U"R"            : 'RareBarry ';
+U"T"            : 'RareBarrNabee ';
+U"D"            : '(ditto) ';
+U"F" : 'barrBQ  barrFwoosh  barrBurn ';
+U"W" : 'barrHouse  barrSploosh  barrSpray ';
